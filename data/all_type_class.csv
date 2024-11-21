@@ -1,70 +1,70 @@
 characteristic,word,type,topic_count,negative,not_negative
 taste,sweet,beer,34,0.14814814814814814,0.8518518518518519
-taste,bitter,beer,27,0.3181818181818182,0.6818181818181818
-taste,sour,beer,25,0.10526315789473684,0.8947368421052632
-raw material,hop,beer,26,0.10526315789473684,0.8947368421052632
-raw material,malt,beer,17,0.0,1.0
-mouthfeel,light,beer,60,0.09302325581395349,0.9069767441860465
-mouthfeel,medium,beer,3,0.0,1.0
+taste,bitter,beer,26,0.3181818181818182,0.6818181818181818
+taste,sour,beer,20,0.14285714285714285,0.8571428571428571
+raw material,hop,beer,16,0.07692307692307693,0.9230769230769231
+raw material,malt,beer,15,0.0,1.0
+mouthfeel,light,beer,60,0.11363636363636363,0.8863636363636364
+mouthfeel,medium,beer,2,0.0,1.0
 mouthfeel,full,beer,0,0.0,0.0
 character,floral,beer,3,0.0,1.0
 character,earthy,beer,2,0.0,1.0
 character,citrusy,beer,1,0.0,1.0
-categories,ale,beer,90,0.06451612903225806,0.9354838709677419
-categories,lager,beer,73,0.11864406779661017,0.8813559322033898
+categories,ale,beer,83,0.06896551724137931,0.9310344827586207
+categories,lager,beer,64,0.11764705882352941,0.8823529411764706
 brand,guinness,beer,40,0.2222222222222222,0.7777777777777778
 brand,modelo,beer,23,0.13333333333333333,0.8666666666666667
 brand,corona,beer,16,0.14285714285714285,0.8571428571428571
 brand,heineken,beer,12,0.18181818181818182,0.8181818181818182
 brand,stella,beer,8,0.5,0.5
-appearance,foam,beer,9,0.3333333333333333,0.6666666666666666
+appearance,foam,beer,9,0.4,0.6
 appearance,color,beer,3,0.0,1.0
 appearance,clarity,beer,0,0.0,0.0
-wine variety,chardonnay,wine,45,0.02631578947368421,0.9736842105263158
-wine variety,merlot,wine,33,0.1,0.9
+wine variety,pinot noir,wine,55,0.021739130434782608,0.9782608695652174
+wine variety,chardonnay,wine,43,0.027777777777777776,0.9722222222222222
+wine variety,merlot,wine,33,0.0967741935483871,0.9032258064516129
 wine variety,riesling,wine,28,0.0,1.0
 wine variety,syrah,wine,22,0.05555555555555555,0.9444444444444444
+wine variety,cabernet sauvignon,wine,20,0.0,1.0
 wine variety,grenache,wine,15,0.0,1.0
+wine variety,sauvignon blanc,wine,12,0.0,1.0
+wine variety,pinot grigio,wine,9,0.0,1.0
 wine variety,malbec,wine,8,0.14285714285714285,0.8571428571428571
 wine variety,gamay,wine,7,0.0,1.0
 wine variety,zinfandel,wine,6,0.0,1.0
 wine variety,moscato,wine,5,0.0,1.0
 wine variety,nebbiolo,wine,5,0.2,0.8
 wine variety,sangiovese,wine,5,0.0,1.0
+wine variety,chenin blanc,wine,4,0.0,1.0
 wine variety,barbera,wine,3,0.0,1.0
 wine variety,carignan,wine,3,0.0,1.0
+wine variety,petit verdot,wine,3,0.0,1.0
 wine variety,tempranillo,wine,3,0.5,0.5
 wine variety,assyrtiko,wine,2,0.0,1.0
 wine variety,aglianico,wine,1,0.0,0.0
 wine variety,pinotage,wine,1,0.0,1.0
 wine variety,primitivo,wine,1,0.0,0.0
+wine variety,touriga nacional,wine,1,0.0,1.0
 wine variety,viognier,wine,1,0.0,1.0
 wine variety,albariño,wine,0,0.0,0.0
 wine variety,blaufränkisch,wine,0,0.0,0.0
 wine variety,bobal,wine,0,0.0,0.0
-wine variety,cabernet sauvignon,wine,0,0.0,0.0
 wine variety,carménère,wine,0,0.0,0.0
-wine variety,chenin blanc,wine,0,0.0,0.0
 wine variety,fiano,wine,0,0.0,0.0
 wine variety,gewürztraminer,wine,0,0.0,0.0
 wine variety,grüner veltliner,wine,0,0.0,0.0
 wine variety,mourvèdre,wine,0,0.0,0.0
-wine variety,petit verdot,wine,0,0.0,0.0
-wine variety,pinot grigio,wine,0,0.0,0.0
-wine variety,pinot noir,wine,0,0.0,0.0
-wine variety,sauvignon blanc,wine,0,0.0,0.0
 wine variety,tannat,wine,0,0.0,0.0
 wine variety,torrontés,wine,0,0.0,0.0
-wine variety,touriga nacional,wine,0,0.0,0.0
 wine variety,trebbiano,wine,0,0.0,0.0
 wine variety,vermentino,wine,0,0.0,0.0
-taste,cherry,wine,79,0.06060606060606061,0.9393939393939394
+taste,cherry,wine,73,0.0625,0.9375
 taste,dry,wine,66,0.0,1.0
-taste,plum,wine,51,0.06382978723404255,0.9361702127659575
+taste,plum,wine,51,0.043478260869565216,0.9565217391304348
 taste,balanced,wine,49,0.02127659574468085,0.9787234042553191
 taste,vanilla,wine,38,0.02857142857142857,0.9714285714285714
 taste,earthy,wine,35,0.0,1.0
-taste,blackberry,wine,30,0.0,1.0
+taste,blackberry,wine,29,0.0,1.0
 taste,fruity,wine,25,0.0,1.0
 taste,smooth,wine,25,0.045454545454545456,0.9545454545454546
 taste,rich,wine,24,0.043478260869565216,0.9565217391304348
@@ -98,14 +98,13 @@ taste,minerally,wine,0,0.0,0.0
 character,acidity,wine,84,0.0,1.0
 character,sweet,wine,61,0.0,1.0
 character,light,wine,59,0.022727272727272728,0.9772727272727273
-character,medium,wine,55,0.04878048780487805,0.9512195121951219
-character,tannin,wine,52,0.10416666666666667,0.8958333333333334
-character,sweetness,wine,13,0.0,1.0
+character,medium,wine,54,0.05,0.95
+character,tannin,wine,13,0.07692307692307693,0.9230769230769231
 character,full,wine,0,0.0,0.0
 character,full-bodied,wine,0,0.0,0.0
 character,light-bodied,wine,0,0.0,0.0
 character,medium-bodied,wine,0,0.0,0.0
-categories,red,wine,218,0.03870967741935484,0.9612903225806452
-categories,white,wine,107,0.058823529411764705,0.9411764705882353
+categories,red,wine,203,0.05517241379310345,0.9448275862068966
+categories,white,wine,95,0.06666666666666667,0.9333333333333333
 categories,sparkling,wine,25,0.0,1.0
 categories,rosé,wine,0,0.0,0.0
