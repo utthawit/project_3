@@ -1,0 +1,112 @@
+type,characteristic,variety
+wine,taste,fruity
+wine,taste,earthy
+wine,taste,floral
+wine,taste,spicy
+wine,taste,herbal
+wine,taste,smoky
+wine,taste,buttery
+wine,taste,tannic
+wine,taste,acidic
+wine,taste,oaky
+wine,taste,vanilla
+wine,taste,minerally
+wine,taste,savory
+wine,taste,crisp
+wine,taste,bold
+wine,taste,smooth
+wine,taste,dry
+wine,taste,sweet
+wine,taste,peppery
+wine,taste,jammy
+wine,taste,leathery
+wine,taste,zesty
+wine,taste,nutty
+wine,taste,rich
+wine,taste,delicate
+wine,taste,balanced
+wine,taste,aromatic
+wine,taste,cherry
+wine,taste,blackberry
+wine,taste,plum
+wine,taste,citrus
+wine,taste,melon
+wine,taste,peach
+wine,taste,honey
+wine,taste,chocolate
+wine,taste,coffee
+wine,taste,grassy
+wine,taste,pineapple
+wine,character,sweetness
+wine,character,sweet
+wine,character,acidity
+wine,character,tannin
+wine,character,light-bodied
+wine,character,medium-bodied
+wine,character,full-bodied
+wine,character,light
+wine,character,medium
+wine,character,full
+wine,wine variety,Cabernet Sauvignon
+wine,wine variety,Merlot
+wine,wine variety,Pinot Noir
+wine,wine variety,Syrah
+wine,wine variety,Zinfandel
+wine,wine variety,Chardonnay
+wine,wine variety,Sauvignon Blanc
+wine,wine variety,Pinot Grigio
+wine,wine variety,Riesling
+wine,wine variety,Malbec
+wine,wine variety,Tempranillo
+wine,wine variety,Grenache
+wine,wine variety,Sangiovese
+wine,wine variety,Nebbiolo
+wine,wine variety,Mourvèdre
+wine,wine variety,Barbera
+wine,wine variety,Chenin Blanc
+wine,wine variety,Viognier
+wine,wine variety,Moscato
+wine,wine variety,Petit Verdot
+wine,wine variety,Carignan
+wine,wine variety,Albariño
+wine,wine variety,Gewürztraminer
+wine,wine variety,Pinotage
+wine,wine variety,Torrontés
+wine,wine variety,Carménère
+wine,wine variety,Vermentino
+wine,wine variety,Gamay
+wine,wine variety,Touriga Nacional
+wine,wine variety,Grüner Veltliner
+wine,wine variety,Tannat
+wine,wine variety,Primitivo
+wine,wine variety,Assyrtiko
+wine,wine variety,Fiano
+wine,wine variety,Aglianico
+wine,wine variety,Blaufränkisch
+wine,wine variety,Trebbiano
+wine,wine variety,Bobal
+wine,categories,red
+wine,categories,white
+wine,categories,rosé
+wine,categories,sparkling
+beer,categories,ale
+beer,categories,lager
+beer,raw material,malt
+beer,raw material,hop
+beer,taste,bitter
+beer,taste,sweet
+beer,taste,sour
+beer,character,citrusy
+beer,character,floral
+beer,character,earthy
+beer,appearance,color
+beer,appearance,clarity
+beer,appearance,foam
+beer,mouthfeel,light
+beer,mouthfeel,medium
+beer,mouthfeel,full
+beer,brand,Corona
+beer,brand,Heineken
+beer,brand,Guinness
+beer,brand,Stella
+beer,brand,Modelo
